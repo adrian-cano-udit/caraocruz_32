@@ -7,6 +7,7 @@
 
 body {
     background-color: rgb(207, 159, 255);
+    perspective: 800px;
 }
 
 header {
